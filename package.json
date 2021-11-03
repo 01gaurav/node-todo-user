@@ -24,7 +24,7 @@
     "mongodb": "^2.2.36",
     "mongoose": "^4.13.20",
     "parse": "^2.13.0",
-    "validator": "^5.7.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "expect": "^1.20.2",
