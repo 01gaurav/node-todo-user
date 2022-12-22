@@ -19,7 +19,7 @@
     "crypto-js": "^4.0.0",
     "export": "^0.1.337",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mongodb": "^2.2.36",
     "mongoose": "^4.13.20",
